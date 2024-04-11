@@ -4,6 +4,6 @@ I'm passionate about social media and enjoy creating client apps and libraries f
 
 (2024E) I'm working on creating social media libraries using Kotlin Multiplatform. Additionally, I'm developing [PlanetLink🪐](https://github.com/uakihir0/planetlink), a library that seamlessly handles multiple social media platforms transparently. I hope you'll use it to craft some amazing apps 🙌
 
-* Mastodon: [kmastodon](https://github.com/uakihir0/kmastodon) (WIP)
+* Mastodon: [kmastodon](https://github.com/uakihir0/kmastodon) ([cocoapods](https://github.com/uakihir0/kmastodon-cocoapods), [npm](https://github.com/uakihir0/kmastodon.js))
 * Misskey: [kmisskey](https://github.com/uakihir0/kmisskey) ([cocoapods](https://github.com/uakihir0/kmisskey-cocoapods), [npm](https://github.com/uakihir0/kmisskey.js))
 * Bluesky: [kbsky](https://github.com/uakihir0/kbsky) ([cocoapods](https://github.com/uakihir0/kbsky-cocoapods))
