@@ -6,4 +6,5 @@ I'm passionate about social media and enjoy creating client apps and libraries f
 
 * Mastodon: [kmastodon](https://github.com/uakihir0/kmastodon) ([cocoapods](https://github.com/uakihir0/kmastodon-cocoapods), [npm](https://github.com/uakihir0/kmastodon.js))
 * Misskey: [kmisskey](https://github.com/uakihir0/kmisskey) ([cocoapods](https://github.com/uakihir0/kmisskey-cocoapods), [npm](https://github.com/uakihir0/kmisskey.js))
+* Tumblr: [ktumblr](https://github.com/uakihir0/ktumblr) ([cocoapods](https://github.com/uakihir0/ktumblr-cocoapods), [npm](https://github.com/uakihir0/ktumblr.js))
 * Bluesky: [kbsky](https://github.com/uakihir0/kbsky) ([cocoapods](https://github.com/uakihir0/kbsky-cocoapods))
